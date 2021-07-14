@@ -1,4 +1,4 @@
-#Java Exercises - Part I
+# Java Exercises - Part I
 
 **The purpose of this exercise is to learn and use java as a programming language. This “part I”
 will contain 20 exercises and every one of them should be declared in a different folder with its
@@ -34,7 +34,7 @@ laboral o no (si ingreso “jueves” me debería decir que si es laboral).
 
 10. Realizar la suma del 1 al número que indiquemos, este debe ser mayor que 1.
 
-##Extra Credit
+## Extra Credit
 
 11. Eliminar los espacios de una frase pasada por consola por el usuario. Por ejemplo, si
 ingreso “el dia está hermoso para programar” debería devolver
