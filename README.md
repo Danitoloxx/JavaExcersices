@@ -1,15 +1,15 @@
 #Java Exercises - Part I
 
-The purpose of this exercise is to learn and use java as a programming language. This “part I”
+**The purpose of this exercise is to learn and use java as a programming language. This “part I”
 will contain 20 exercises and every one of them should be declared in a different folder with its
 main method.
 The folders should be called according to the exercise number like: Exercise_1.
-Exercises
+Exercises**
 
 1. Declara dos variables numéricas (con el valor que desees), muestra por consola la
 suma, resta, multiplicación, división y módulo (resto de la división).
 
-2. Declara 2 variables numéricas (con el valor que desees), he indica cual es mayor de los
+2. Declara 2 variables numéricas (con el valor que desees), he indica cuál es mayor de los
 dos. Si son iguales indicarlo también. Ves cambiando los valores para comprobar que
 funciona.
 
@@ -19,7 +19,7 @@ por consola. Por ejemplo: si introduzco “Fernando”, me aparece “Bienvenido
 4. Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es,
 también debemos indicarlo.
 
-5. Lee un número o un caracter (char) por teclado y muestre por consola, el carácter al que
+5. Lee un número o un carácter (char) por teclado y muestre por consola, el carácter al que
 pertenece en la tabla ASCII. Por ejemplo: si introduzco un 97, me muestre una a.
 
 6. Muestra los números del 1 al 100 (ambos incluidos).
@@ -34,10 +34,10 @@ laboral o no (si ingreso “jueves” me debería decir que si es laboral).
 
 10. Realizar la suma del 1 al número que indiquemos, este debe ser mayor que 1.
 
-Extra Credit
+##Extra Credit
 
 11. Eliminar los espacios de una frase pasada por consola por el usuario. Por ejemplo, si
-ingreso “el dia esta hermoso para programar” debería devolver
+ingreso “el dia está hermoso para programar” debería devolver
 “eldiaestahermosoparaprogramar”.
 
 12. Crea una función que cuente el número de vocales que contiene una cadena.
