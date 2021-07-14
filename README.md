@@ -36,14 +36,14 @@ laboral o no (si ingreso “jueves” me debería decir que si es laboral).
 
 ## Extra Credit
 
-11. Eliminar los espacios de una frase pasada por consola por el usuario. Por ejemplo, si
+1. Eliminar los espacios de una frase pasada por consola por el usuario. Por ejemplo, si
 ingreso “el dia está hermoso para programar” debería devolver
 “eldiaestahermosoparaprogramar”.
 
-12. Crea una función que cuente el número de vocales que contiene una cadena.
+1. Crea una función que cuente el número de vocales que contiene una cadena.
 Desde la función principal tendrás que pedir una palabra o frase al usuario y tendrás
 que mostrar el número de vocales que contiene haciendo uso de la función anterior.
 
-13. Crear una función que reciba dos arrays de números como parámetros (pueden ser
+1. Crear una función que reciba dos arrays de números como parámetros (pueden ser
 de longitud diferente) y que arme un array resultante con los números que sean
 mayores a 10 de cada uno de los arrays parámetro.
