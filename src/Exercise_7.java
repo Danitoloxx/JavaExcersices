@@ -14,7 +14,7 @@ public class Exercise_7 {
         do {
             System.out.println("Introduce a number bigger than 0: ");
             number = scanner.nextInt();
-        } while(number <=0);
+        } while(number <0);
 
         //Print the result obtained.
         System.out.println("The number entered is "+number);
