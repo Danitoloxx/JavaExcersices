@@ -9,30 +9,30 @@ Exercises**
 1. Declara dos variables numéricas (con el valor que desees), muestra por consola la
 suma, resta, multiplicación, división y módulo (resto de la división).
 
-2. Declara 2 variables numéricas (con el valor que desees), he indica cuál es mayor de los
+1. Declara 2 variables numéricas (con el valor que desees), he indica cuál es mayor de los
 dos. Si son iguales indicarlo también. Ves cambiando los valores para comprobar que
 funciona.
 
-3. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida
+1. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida
 por consola. Por ejemplo: si introduzco “Fernando”, me aparece “Bienvenido Fernando”.
 
-4. Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es,
+1. Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es,
 también debemos indicarlo.
 
-5. Lee un número o un carácter (char) por teclado y muestre por consola, el carácter al que
+1. Lee un número o un carácter (char) por teclado y muestre por consola, el carácter al que
 pertenece en la tabla ASCII. Por ejemplo: si introduzco un 97, me muestre una a.
 
-6. Muestra los números del 1 al 100 (ambos incluidos).
+1. Muestra los números del 1 al 100 (ambos incluidos).
 
-7. Lee un número por teclado y comprueba que este número es mayor o igual que cero, si
+1. Lee un número por teclado y comprueba que este número es mayor o igual que cero, si
 no lo es lo volverá a pedir (do while), después muestra ese número por consola
 
-8. Crea una aplicación que nos pida un día de la semana y que nos diga si es un día
+1. Crea una aplicación que nos pida un día de la semana y que nos diga si es un día
 laboral o no (si ingreso “jueves” me debería decir que si es laboral).
 
-9. Pide un número por teclado e indica si es un número primo o no
+1. Pide un número por teclado e indica si es un número primo o no
 
-10. Realizar la suma del 1 al número que indiquemos, este debe ser mayor que 1.
+1. Realizar la suma del 1 al número que indiquemos, este debe ser mayor que 1.
 
 ## Extra Credit
 
